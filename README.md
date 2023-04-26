@@ -1,10 +1,9 @@
 
 <img src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Original GIF" style="width: 700px; height: 300px;">
-<h2>Hi there! &#128075</h2>
 <h1 align="center">Hi 👋, I'm Aditi Sujlegaonkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikulkarni1697&label=Profile%20views&color=0e75b6&style=flat" alt="aditikulkarni1697" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikulkarni1697&label=Profile%20views&color=0e75b6&style=flat" alt="aditikulkarni1697" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditikulkarni1697" alt="aditikulkarni1697" /></a> </p>
 
