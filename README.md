@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aditisujlegaonkar@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="center">
 </p>
 
@@ -22,8 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikulkarni1697&show_icons=true&locale=en&layout=compact" alt="aditikulkarni1697" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=aditikulkarni1697&show_icons=true&locale=en" alt="aditikulkarni1697" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditikulkarni1697&show_icons=true&locale=en" alt="aditikulkarni1697" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditikulkarni1697&" alt="aditikulkarni1697" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aditikulkarni1697&" alt="aditikulkarni1697" /></p>
 
 
