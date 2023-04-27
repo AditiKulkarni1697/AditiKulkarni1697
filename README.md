@@ -7,11 +7,13 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditikulkarni1697" alt="aditikulkarni1697" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, MongoDB, Redis**
+ 🌱 I’m currently learning **NodeJS, MongoDB, Redis**
 
-- 💬 Ask me about **HTML-5, CSS, JavaScript**
+ 💬 Ask me about **HTML-5, CSS, JavaScript**
+ 
+ 👨‍💻 All of my projects are available at [https://AditiKulkarni1697.github.io](https://AditiKulkarni1697.github.io)
 
-- 📫 How to reach me **aditisujlegaonkar@gmail.com**
+ 📫 How to reach me **aditisujlegaonkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
