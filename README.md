@@ -1,5 +1,11 @@
-
-<img align="center" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="Original GIF" style="width: 1000px; height: 350px;" >
+<div>
+            <video playsinline autoplay muted loop width="130%">
+              <source
+                src="https://cdn.dribbble.com/users/427857/screenshots/16181208/media/73c4efbf90e1bd8011ea9b2b9e422e77.mp4"
+                type="video/mp4"
+              />
+            </video>
+          </div>
 <h1 align="center">Hi 👋, I'm Aditi Sujlegaonkar</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
