@@ -18,7 +18,7 @@
  💬 Ask me about **HTML-5, CSS, JavaScript**
  
  👨‍💻 All of my projects are available at 
- <!-- [https://AditiKulkarni1697.github.io](https://AditiKulkarni1697.github.io) -->
+  [https://AditiKulkarni1697.github.io](https://AditiKulkarni1697.github.io) 
 
  📫 How to reach me **aditisujlegaonkar@gmail.com**
 
