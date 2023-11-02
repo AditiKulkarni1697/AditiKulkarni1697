@@ -13,9 +13,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditikulkarni1697" alt="aditikulkarni1697" /></a> </p>
 
- 🌱 I’m currently learning **NodeJS, MongoDB, Redis**
+ 🌱 I’m currently learning **React, SQL**
 
- 💬 Ask me about **HTML-5, CSS, JavaScript**
+ 💬 Ask me about **HTML-5, CSS, JavaScript, NodeJS, Express, MongoDB**
  
  👨‍💻 All of my projects are available at 
   [https://AditiKulkarni1697.github.io](https://AditiKulkarni1697.github.io) 
