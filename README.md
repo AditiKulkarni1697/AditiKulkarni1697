@@ -13,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditikulkarni1697" alt="aditikulkarni1697" /></a> </p>
 
- 🌱 I’m currently learning **React, SQL**
+ 🌱 I’m currently learning **React, SQL, AWS**
 
  💬 Ask me about **HTML-5, CSS, JavaScript, NodeJS, Express, MongoDB**
  
