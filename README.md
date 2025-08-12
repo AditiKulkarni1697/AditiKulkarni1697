@@ -1,7 +1,7 @@
 
 # Hi there, I'm Aditi Sujlegaonkar 👋  
 
-🚀 **Full Stack Web Developer | Node.js Enthusiast | Problem Solver**  
+🚀 **Full Stack Web Developer | Node.js Developer | Problem Solver**  
 
 I’m a dynamic full stack web developer with **1.5 years of hands-on experience** in building and scaling robust backend systems. My work blends **Node.js**, **Express.js**, and **MongoDB** on the backend with **React** for seamless front-end integration. I’m passionate about solving complex problems, optimizing performance, and delivering user-friendly web solutions.  
 
@@ -9,7 +9,7 @@ I’m a dynamic full stack web developer with **1.5 years of hands-on experience
 
 ## 🛠️ Tech Stack
 **Backend:** Node.js, Express.js, RESTful APIs, Redis, MongoDB  
-**Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+)  
+**Frontend:** React, Redux, HTML5, CSS3, JavaScript  
 **DevOps / Cloud:** AWS (EC2, SES), Nginx, Cloudflare  
 **Tools & Others:** Git, Socket.io  
 **Soft Skills:** Attention to Detail, Teamwork, Problem Solving, Effective Communication  
@@ -28,13 +28,13 @@ I’m a dynamic full stack web developer with **1.5 years of hands-on experience
 ## 📂 Projects
 
 ### **Purrfect-Match**  
-[🌐 Live Demo](https://aditis.in) | [💻 GitHub Repo](https://github.com/AditiKulkarni1697/Purrfect-Match)  
+[🌐 Deployed Link](https://aditis.in) | [💻 GitHub Repo](https://github.com/AditiKulkarni1697/Purrfect-Match)  
 Tech Stack: Node.js, Express.js, MongoDB, React, Redux, AWS, Nginx, Cloudflare  
 - Single-page pet social platform with profile browsing, friend requests, and real-time chat.  
 - Implemented interest-based friend suggestions and editable profiles post-registration.  
 
 ### **TaskMaster**  
-[🌐 Live Demo](https://taskmaster-6qcu.onrender.com/api-docs) | [💻 GitHub Repo](https://github.com/AditiKulkarni1697/TaskMaster)  
+[🌐 Deployed Link](https://taskmaster-6qcu.onrender.com/api-docs) | [💻 GitHub Repo](https://github.com/AditiKulkarni1697/TaskMaster)  
 Tech Stack: Node.js, Express.js, MongoDB  
 - Developed backend APIs for a task-tracking platform with secure access control, task and team management.  
 - Enabled collaboration via comments and file attachments.
@@ -54,7 +54,7 @@ Tech Stack: Node.js, Express.js, MongoDB
 ## 📫 Let’s Connect!
 - **Portfolio:** [aditikulkarni1697](https://aditikulkarni1697.github.io/)  
 - **LinkedIn:** [linkedin.com/in/aditi-sujlegaonkar](https://www.linkedin.com/in/aditi-sujlegaonkar/)  
-- **Email:** your.email@example.com  
+- **Email:** aditisujlegaonkar@gmail.com  
 
 ---
 ⭐️ *"Code is like humor. When you have to explain it, it’s bad."*  
