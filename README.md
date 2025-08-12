@@ -1,48 +1,60 @@
-<div>
-            <video playsinline autoplay muted loop width="130%">
-              <source
-                src="https://cdn.dribbble.com/users/427857/screenshots/16181208/media/73c4efbf90e1bd8011ea9b2b9e422e77.mp4"
-                type="video/mp4"
-              />
-            </video>
-          </div>
-<h1 align="center">Hi 👋, I'm Aditi Sujlegaonkar</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditikulkarni1697&label=Profile%20views&color=0e75b6&style=flat" alt="aditikulkarni1697" /> </p> -->
+# Hi there, I'm Aditi Sujlegaonkar 👋  
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditikulkarni1697" alt="aditikulkarni1697" /></a> </p>
+🚀 **Full Stack Web Developer | Node.js Enthusiast | Problem Solver**  
 
- 🌱 I’m currently learning **React, SQL, AWS**
+I’m a dynamic full stack web developer with **1.5 years of hands-on experience** in building and scaling robust backend systems. My work blends **Node.js**, **Express.js**, and **MongoDB** on the backend with **React** for seamless front-end integration. I’m passionate about solving complex problems, optimizing performance, and delivering user-friendly web solutions.  
 
- 💬 Ask me about **HTML-5, CSS, JavaScript, NodeJS, Express, MongoDB**
+---
 
- 📫 How to reach me **aditisujlegaonkar@gmail.com**
+## 🛠️ Tech Stack
+**Backend:** Node.js, Express.js, RESTful APIs, Redis, MongoDB  
+**Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+)  
+**DevOps / Cloud:** AWS (EC2, SES), Nginx, Cloudflare  
+**Tools & Others:** Git, Socket.io  
+**Soft Skills:** Attention to Detail, Teamwork, Problem Solving, Effective Communication  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aditi-sujlegaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditi-sujlegaonkar" height="30" width="40" /></a>
-</p>
-<p align="center">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-            <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-            <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-            <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-            <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-            <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## 💼 Professional Experience
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditikulkarni1697&show_icons=true&locale=en&layout=compact" alt="aditikulkarni1697" /></p>
+### **Nsquare Business Consulting, Pune** — *Node.js Backend Developer*  
+*Jan 2024 – Jun 2025*  
+- Engineered a scalable Node.js backend and developed a WhatsApp chatbot using webhooks for real-time, automated customer interactions.  
+- Optimized bulk API call accuracy by **40%**, enhanced socket event delivery reliability by **60%**, and reduced Redis cache load by **30%** through efficient data handling and caching strategies.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditikulkarni1697&show_icons=true&locale=en" alt="aditikulkarni1697" /></p>
+---
 
+## 📂 Projects
 
+### **Purrfect-Match**  
+[🌐 Live Demo](https://aditis.in) | [💻 GitHub Repo](https://github.com/AditiKulkarni1697/Purrfect-Match)  
+Tech Stack: Node.js, Express.js, MongoDB, React, Redux, AWS, Nginx, Cloudflare  
+- Single-page pet social platform with profile browsing, friend requests, and real-time chat.  
+- Implemented interest-based friend suggestions and editable profiles post-registration.  
 
+### **TaskMaster**  
+[🌐 Live Demo](https://taskmaster-6qcu.onrender.com/api-docs) | [💻 GitHub Repo](https://github.com/AditiKulkarni1697/TaskMaster)  
+Tech Stack: Node.js, Express.js, MongoDB  
+- Developed backend APIs for a task-tracking platform with secure access control, task and team management.  
+- Enabled collaboration via comments and file attachments.
+
+---
+
+## 🎓 Education
+- **Masai School, Bengaluru** — *Full Stack Web Development* (Oct 2023)
+
+---
+
+## 📜 Certifications
+- **JavaScript (Basic) Certificate** – HackerRank [View Certificate](https://www.hackerrank.com/certificates/iframe/5008b423714a)
+
+---
+
+## 📫 Let’s Connect!
+- **Portfolio:** [aditikulkarni1697](https://aditikulkarni1697.github.io/)  
+- **LinkedIn:** [linkedin.com/in/aditi-sujlegaonkar](https://www.linkedin.com/in/aditi-sujlegaonkar/)  
+- **Email:** your.email@example.com  
+
+---
+⭐️ *"Code is like humor. When you have to explain it, it’s bad."*  
