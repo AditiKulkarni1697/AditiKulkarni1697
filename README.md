@@ -29,7 +29,7 @@ I’m a dynamic full stack web developer with **1.5 years of hands-on experience
 
 ### **Purrfect-Match**  
 [🌐 Deployed Link](https://aditis.in) | [💻 GitHub Repo](https://github.com/AditiKulkarni1697/Purrfect-Match)  
-Demo Video: https://drive.google.com/file/d/1QAgjrXv-ykfoCCCBqBvnMJe3exKiMog3/view?usp=sharing
+[Demo Video](https://drive.google.com/file/d/1QAgjrXv-ykfoCCCBqBvnMJe3exKiMog3/view?usp=sharing)
 Tech Stack: Node.js, Express.js, MongoDB, React, Redux, AWS, Nginx, Cloudflare  
 - Single-page pet social platform with profile browsing, friend requests, and real-time chat.  
 - Implemented interest-based friend suggestions and editable profiles post-registration.  
